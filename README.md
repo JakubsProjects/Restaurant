@@ -15,3 +15,8 @@ d - display the wait list information
 The program waits for input. So for example you can do " a 4 David" and this adds a customer David who is in line waiting for a seat of 4. 
 
 This programw as implemented using struct(typedef struct) and linked list.
+
+
+***Warning***
+Must use terminal to compile and run this program. All you do is naviagte to the folder in which you have downloaded "main1.c main2.c main3.c Makefile and main.h" and then type in "make" into terminal. This compiles all the code for you. Afterwards just type in the 
+command line "./main" and the program will begin.
